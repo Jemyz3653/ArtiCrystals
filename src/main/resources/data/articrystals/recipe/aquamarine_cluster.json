@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "articrystals:aquamarine",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "articrystals:aquamarine_cluster",
+    "count": 1
+  }
+}

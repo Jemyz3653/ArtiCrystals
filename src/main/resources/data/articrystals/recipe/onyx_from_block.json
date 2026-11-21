@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:onyx_block"
+  ],
+  "result": {
+    "id": "articrystals:onyx",
+    "count": 9
+  }
+}

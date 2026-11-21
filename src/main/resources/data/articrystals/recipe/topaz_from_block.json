@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:topaz_block"
+  ],
+  "result": {
+    "id": "articrystals:topaz",
+    "count": 9
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:jade_block"
+  ],
+  "result": {
+    "id": "articrystals:jade",
+    "count": 9
+  }
+}

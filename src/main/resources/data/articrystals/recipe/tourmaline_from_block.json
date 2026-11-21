@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:tourmaline_block"
+  ],
+  "result": {
+    "id": "articrystals:tourmaline",
+    "count": 9
+  }
+}

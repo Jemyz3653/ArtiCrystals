@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "articrystals:amber"
+  },
+  "result": {
+    "id": "articrystals:amber_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:rock_crystal_block"
+  ],
+  "result": {
+    "id": "articrystals:rock_crystal",
+    "count": 9
+  }
+}

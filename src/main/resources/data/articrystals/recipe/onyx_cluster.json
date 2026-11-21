@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "articrystals:onyx",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "articrystals:onyx_cluster",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "articrystals:opal",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "articrystals:opal_cluster",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_synthesizer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "articrystals:crystal_synthesizer"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_synthesizer"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "articrystals:fluorite_from_block"
+    ]
+  }
+}

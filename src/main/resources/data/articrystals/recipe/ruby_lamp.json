@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:ruby_block",
+    "articrystals:prismatic_lens",
+    "minecraft:glowstone_dust"
+  ],
+  "result": {
+    "id": "articrystals:ruby_lamp",
+    "count": 1
+  }
+}

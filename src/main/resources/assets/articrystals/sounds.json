@@ -1,0 +1,1122 @@
+{
+  "crystal.ruby.break": {
+    "subtitle": "subtitles.articrystals.crystal.ruby.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 0.84
+      }
+    ]
+  },
+  "crystal.ruby.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.ruby.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 0.84
+      }
+    ]
+  },
+  "crystal.ruby.step": {
+    "subtitle": "subtitles.articrystals.crystal.ruby.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 0.84
+      }
+    ]
+  },
+  "crystal.ruby.place": {
+    "subtitle": "subtitles.articrystals.crystal.ruby.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 0.84
+      }
+    ]
+  },
+  "crystal.ruby.hit": {
+    "subtitle": "subtitles.articrystals.crystal.ruby.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 0.84
+      }
+    ]
+  },
+  "crystal.ruby.fall": {
+    "subtitle": "subtitles.articrystals.crystal.ruby.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 0.84
+      }
+    ]
+  },
+  "crystal.ruby.chime": {
+    "subtitle": "subtitles.articrystals.crystal.ruby.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 0.84
+      }
+    ]
+  },
+  "crystal.sapphire.break": {
+    "subtitle": "subtitles.articrystals.crystal.sapphire.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 1.12
+      }
+    ]
+  },
+  "crystal.sapphire.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.sapphire.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 1.12
+      }
+    ]
+  },
+  "crystal.sapphire.step": {
+    "subtitle": "subtitles.articrystals.crystal.sapphire.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 1.12
+      }
+    ]
+  },
+  "crystal.sapphire.place": {
+    "subtitle": "subtitles.articrystals.crystal.sapphire.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 1.12
+      }
+    ]
+  },
+  "crystal.sapphire.hit": {
+    "subtitle": "subtitles.articrystals.crystal.sapphire.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 1.12
+      }
+    ]
+  },
+  "crystal.sapphire.fall": {
+    "subtitle": "subtitles.articrystals.crystal.sapphire.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 1.12
+      }
+    ]
+  },
+  "crystal.sapphire.chime": {
+    "subtitle": "subtitles.articrystals.crystal.sapphire.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 1.12
+      }
+    ]
+  },
+  "crystal.rock_crystal.break": {
+    "subtitle": "subtitles.articrystals.crystal.rock_crystal.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 1.48
+      }
+    ]
+  },
+  "crystal.rock_crystal.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.rock_crystal.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 1.48
+      }
+    ]
+  },
+  "crystal.rock_crystal.step": {
+    "subtitle": "subtitles.articrystals.crystal.rock_crystal.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 1.48
+      }
+    ]
+  },
+  "crystal.rock_crystal.place": {
+    "subtitle": "subtitles.articrystals.crystal.rock_crystal.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 1.48
+      }
+    ]
+  },
+  "crystal.rock_crystal.hit": {
+    "subtitle": "subtitles.articrystals.crystal.rock_crystal.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 1.48
+      }
+    ]
+  },
+  "crystal.rock_crystal.fall": {
+    "subtitle": "subtitles.articrystals.crystal.rock_crystal.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 1.48
+      }
+    ]
+  },
+  "crystal.rock_crystal.chime": {
+    "subtitle": "subtitles.articrystals.crystal.rock_crystal.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 1.48
+      }
+    ]
+  },
+  "crystal.citrine.break": {
+    "subtitle": "subtitles.articrystals.crystal.citrine.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 1.3
+      }
+    ]
+  },
+  "crystal.citrine.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.citrine.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 1.3
+      }
+    ]
+  },
+  "crystal.citrine.step": {
+    "subtitle": "subtitles.articrystals.crystal.citrine.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 1.3
+      }
+    ]
+  },
+  "crystal.citrine.place": {
+    "subtitle": "subtitles.articrystals.crystal.citrine.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 1.3
+      }
+    ]
+  },
+  "crystal.citrine.hit": {
+    "subtitle": "subtitles.articrystals.crystal.citrine.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 1.3
+      }
+    ]
+  },
+  "crystal.citrine.fall": {
+    "subtitle": "subtitles.articrystals.crystal.citrine.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 1.3
+      }
+    ]
+  },
+  "crystal.citrine.chime": {
+    "subtitle": "subtitles.articrystals.crystal.citrine.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 1.3
+      }
+    ]
+  },
+  "crystal.rose_quartz.break": {
+    "subtitle": "subtitles.articrystals.crystal.rose_quartz.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 1.24
+      }
+    ]
+  },
+  "crystal.rose_quartz.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.rose_quartz.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 1.24
+      }
+    ]
+  },
+  "crystal.rose_quartz.step": {
+    "subtitle": "subtitles.articrystals.crystal.rose_quartz.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 1.24
+      }
+    ]
+  },
+  "crystal.rose_quartz.place": {
+    "subtitle": "subtitles.articrystals.crystal.rose_quartz.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 1.24
+      }
+    ]
+  },
+  "crystal.rose_quartz.hit": {
+    "subtitle": "subtitles.articrystals.crystal.rose_quartz.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 1.24
+      }
+    ]
+  },
+  "crystal.rose_quartz.fall": {
+    "subtitle": "subtitles.articrystals.crystal.rose_quartz.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 1.24
+      }
+    ]
+  },
+  "crystal.rose_quartz.chime": {
+    "subtitle": "subtitles.articrystals.crystal.rose_quartz.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 1.24
+      }
+    ]
+  },
+  "crystal.topaz.break": {
+    "subtitle": "subtitles.articrystals.crystal.topaz.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 1.04
+      }
+    ]
+  },
+  "crystal.topaz.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.topaz.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 1.04
+      }
+    ]
+  },
+  "crystal.topaz.step": {
+    "subtitle": "subtitles.articrystals.crystal.topaz.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 1.04
+      }
+    ]
+  },
+  "crystal.topaz.place": {
+    "subtitle": "subtitles.articrystals.crystal.topaz.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 1.04
+      }
+    ]
+  },
+  "crystal.topaz.hit": {
+    "subtitle": "subtitles.articrystals.crystal.topaz.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 1.04
+      }
+    ]
+  },
+  "crystal.topaz.fall": {
+    "subtitle": "subtitles.articrystals.crystal.topaz.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 1.04
+      }
+    ]
+  },
+  "crystal.topaz.chime": {
+    "subtitle": "subtitles.articrystals.crystal.topaz.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 1.04
+      }
+    ]
+  },
+  "crystal.fluorite.break": {
+    "subtitle": "subtitles.articrystals.crystal.fluorite.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 1.62
+      }
+    ]
+  },
+  "crystal.fluorite.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.fluorite.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 1.62
+      }
+    ]
+  },
+  "crystal.fluorite.step": {
+    "subtitle": "subtitles.articrystals.crystal.fluorite.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 1.62
+      }
+    ]
+  },
+  "crystal.fluorite.place": {
+    "subtitle": "subtitles.articrystals.crystal.fluorite.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 1.62
+      }
+    ]
+  },
+  "crystal.fluorite.hit": {
+    "subtitle": "subtitles.articrystals.crystal.fluorite.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 1.62
+      }
+    ]
+  },
+  "crystal.fluorite.fall": {
+    "subtitle": "subtitles.articrystals.crystal.fluorite.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 1.62
+      }
+    ]
+  },
+  "crystal.fluorite.chime": {
+    "subtitle": "subtitles.articrystals.crystal.fluorite.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 1.62
+      }
+    ]
+  },
+  "crystal.jade.break": {
+    "subtitle": "subtitles.articrystals.crystal.jade.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 0.68
+      }
+    ]
+  },
+  "crystal.jade.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.jade.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 0.68
+      }
+    ]
+  },
+  "crystal.jade.step": {
+    "subtitle": "subtitles.articrystals.crystal.jade.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 0.68
+      }
+    ]
+  },
+  "crystal.jade.place": {
+    "subtitle": "subtitles.articrystals.crystal.jade.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 0.68
+      }
+    ]
+  },
+  "crystal.jade.hit": {
+    "subtitle": "subtitles.articrystals.crystal.jade.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 0.68
+      }
+    ]
+  },
+  "crystal.jade.fall": {
+    "subtitle": "subtitles.articrystals.crystal.jade.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 0.68
+      }
+    ]
+  },
+  "crystal.jade.chime": {
+    "subtitle": "subtitles.articrystals.crystal.jade.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 0.68
+      }
+    ]
+  },
+  "crystal.aquamarine.break": {
+    "subtitle": "subtitles.articrystals.crystal.aquamarine.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 1.4
+      }
+    ]
+  },
+  "crystal.aquamarine.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.aquamarine.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 1.4
+      }
+    ]
+  },
+  "crystal.aquamarine.step": {
+    "subtitle": "subtitles.articrystals.crystal.aquamarine.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 1.4
+      }
+    ]
+  },
+  "crystal.aquamarine.place": {
+    "subtitle": "subtitles.articrystals.crystal.aquamarine.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 1.4
+      }
+    ]
+  },
+  "crystal.aquamarine.hit": {
+    "subtitle": "subtitles.articrystals.crystal.aquamarine.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 1.4
+      }
+    ]
+  },
+  "crystal.aquamarine.fall": {
+    "subtitle": "subtitles.articrystals.crystal.aquamarine.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 1.4
+      }
+    ]
+  },
+  "crystal.aquamarine.chime": {
+    "subtitle": "subtitles.articrystals.crystal.aquamarine.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 1.4
+      }
+    ]
+  },
+  "crystal.tourmaline.break": {
+    "subtitle": "subtitles.articrystals.crystal.tourmaline.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 0.76
+      }
+    ]
+  },
+  "crystal.tourmaline.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.tourmaline.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 0.76
+      }
+    ]
+  },
+  "crystal.tourmaline.step": {
+    "subtitle": "subtitles.articrystals.crystal.tourmaline.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 0.76
+      }
+    ]
+  },
+  "crystal.tourmaline.place": {
+    "subtitle": "subtitles.articrystals.crystal.tourmaline.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 0.76
+      }
+    ]
+  },
+  "crystal.tourmaline.hit": {
+    "subtitle": "subtitles.articrystals.crystal.tourmaline.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 0.76
+      }
+    ]
+  },
+  "crystal.tourmaline.fall": {
+    "subtitle": "subtitles.articrystals.crystal.tourmaline.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 0.76
+      }
+    ]
+  },
+  "crystal.tourmaline.chime": {
+    "subtitle": "subtitles.articrystals.crystal.tourmaline.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 0.76
+      }
+    ]
+  },
+  "crystal.amber.break": {
+    "subtitle": "subtitles.articrystals.crystal.amber.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 0.94
+      }
+    ]
+  },
+  "crystal.amber.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.amber.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 0.94
+      }
+    ]
+  },
+  "crystal.amber.step": {
+    "subtitle": "subtitles.articrystals.crystal.amber.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 0.94
+      }
+    ]
+  },
+  "crystal.amber.place": {
+    "subtitle": "subtitles.articrystals.crystal.amber.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 0.94
+      }
+    ]
+  },
+  "crystal.amber.hit": {
+    "subtitle": "subtitles.articrystals.crystal.amber.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 0.94
+      }
+    ]
+  },
+  "crystal.amber.fall": {
+    "subtitle": "subtitles.articrystals.crystal.amber.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 0.94
+      }
+    ]
+  },
+  "crystal.amber.chime": {
+    "subtitle": "subtitles.articrystals.crystal.amber.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 0.94
+      }
+    ]
+  },
+  "crystal.opal.break": {
+    "subtitle": "subtitles.articrystals.crystal.opal.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 1.54
+      }
+    ]
+  },
+  "crystal.opal.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.opal.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 1.54
+      }
+    ]
+  },
+  "crystal.opal.step": {
+    "subtitle": "subtitles.articrystals.crystal.opal.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 1.54
+      }
+    ]
+  },
+  "crystal.opal.place": {
+    "subtitle": "subtitles.articrystals.crystal.opal.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 1.54
+      }
+    ]
+  },
+  "crystal.opal.hit": {
+    "subtitle": "subtitles.articrystals.crystal.opal.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 1.54
+      }
+    ]
+  },
+  "crystal.opal.fall": {
+    "subtitle": "subtitles.articrystals.crystal.opal.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 1.54
+      }
+    ]
+  },
+  "crystal.opal.chime": {
+    "subtitle": "subtitles.articrystals.crystal.opal.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 1.54
+      }
+    ]
+  },
+  "crystal.garnet.break": {
+    "subtitle": "subtitles.articrystals.crystal.garnet.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 0.6
+      }
+    ]
+  },
+  "crystal.garnet.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.garnet.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 0.6
+      }
+    ]
+  },
+  "crystal.garnet.step": {
+    "subtitle": "subtitles.articrystals.crystal.garnet.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 0.6
+      }
+    ]
+  },
+  "crystal.garnet.place": {
+    "subtitle": "subtitles.articrystals.crystal.garnet.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 0.6
+      }
+    ]
+  },
+  "crystal.garnet.hit": {
+    "subtitle": "subtitles.articrystals.crystal.garnet.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 0.6
+      }
+    ]
+  },
+  "crystal.garnet.fall": {
+    "subtitle": "subtitles.articrystals.crystal.garnet.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 0.6
+      }
+    ]
+  },
+  "crystal.garnet.chime": {
+    "subtitle": "subtitles.articrystals.crystal.garnet.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 0.6
+      }
+    ]
+  },
+  "crystal.onyx.break": {
+    "subtitle": "subtitles.articrystals.crystal.onyx.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 0.5
+      }
+    ]
+  },
+  "crystal.onyx.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.onyx.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 0.5
+      }
+    ]
+  },
+  "crystal.onyx.step": {
+    "subtitle": "subtitles.articrystals.crystal.onyx.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 0.5
+      }
+    ]
+  },
+  "crystal.onyx.place": {
+    "subtitle": "subtitles.articrystals.crystal.onyx.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 0.5
+      }
+    ]
+  },
+  "crystal.onyx.hit": {
+    "subtitle": "subtitles.articrystals.crystal.onyx.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 0.5
+      }
+    ]
+  },
+  "crystal.onyx.fall": {
+    "subtitle": "subtitles.articrystals.crystal.onyx.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 0.5
+      }
+    ]
+  },
+  "crystal.onyx.chime": {
+    "subtitle": "subtitles.articrystals.crystal.onyx.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 0.5
+      }
+    ]
+  },
+  "crystal.malachite.break": {
+    "subtitle": "subtitles.articrystals.crystal.malachite.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 0.9
+      }
+    ]
+  },
+  "crystal.malachite.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.malachite.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 0.9
+      }
+    ]
+  },
+  "crystal.malachite.step": {
+    "subtitle": "subtitles.articrystals.crystal.malachite.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 0.9
+      }
+    ]
+  },
+  "crystal.malachite.place": {
+    "subtitle": "subtitles.articrystals.crystal.malachite.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 0.9
+      }
+    ]
+  },
+  "crystal.malachite.hit": {
+    "subtitle": "subtitles.articrystals.crystal.malachite.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 0.9
+      }
+    ]
+  },
+  "crystal.malachite.fall": {
+    "subtitle": "subtitles.articrystals.crystal.malachite.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 0.9
+      }
+    ]
+  },
+  "crystal.malachite.chime": {
+    "subtitle": "subtitles.articrystals.crystal.malachite.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 0.9
+      }
+    ]
+  },
+  "crystal.moonstone.break": {
+    "subtitle": "subtitles.articrystals.crystal.moonstone.break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.break",
+        "type": "event",
+        "pitch": 1.74
+      }
+    ]
+  },
+  "crystal.moonstone.cluster_break": {
+    "subtitle": "subtitles.articrystals.crystal.moonstone.cluster_break",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_cluster.break",
+        "type": "event",
+        "pitch": 1.74
+      }
+    ]
+  },
+  "crystal.moonstone.step": {
+    "subtitle": "subtitles.articrystals.crystal.moonstone.step",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.step",
+        "type": "event",
+        "pitch": 1.74
+      }
+    ]
+  },
+  "crystal.moonstone.place": {
+    "subtitle": "subtitles.articrystals.crystal.moonstone.place",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.place",
+        "type": "event",
+        "pitch": 1.74
+      }
+    ]
+  },
+  "crystal.moonstone.hit": {
+    "subtitle": "subtitles.articrystals.crystal.moonstone.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.hit",
+        "type": "event",
+        "pitch": 1.74
+      }
+    ]
+  },
+  "crystal.moonstone.fall": {
+    "subtitle": "subtitles.articrystals.crystal.moonstone.fall",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.fall",
+        "type": "event",
+        "pitch": 1.74
+      }
+    ]
+  },
+  "crystal.moonstone.chime": {
+    "subtitle": "subtitles.articrystals.crystal.moonstone.chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event",
+        "pitch": 1.74
+      }
+    ]
+  }
+}

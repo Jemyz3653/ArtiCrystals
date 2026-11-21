@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "studio.detemkur.articrystals.client.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "CameraMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

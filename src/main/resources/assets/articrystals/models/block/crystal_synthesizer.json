@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "articrystals:block/synthesizer_top",
+    "down": "articrystals:block/synthesizer_bottom",
+    "north": "articrystals:block/synthesizer_side",
+    "south": "articrystals:block/synthesizer_side",
+    "east": "articrystals:block/synthesizer_side",
+    "west": "articrystals:block/synthesizer_side",
+    "particle": "articrystals:block/synthesizer_side"
+  }
+}

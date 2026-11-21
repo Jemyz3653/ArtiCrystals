@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:rose_quartz_block",
+    "articrystals:prismatic_lens",
+    "minecraft:glowstone_dust"
+  ],
+  "result": {
+    "id": "articrystals:rose_quartz_lamp",
+    "count": 1
+  }
+}

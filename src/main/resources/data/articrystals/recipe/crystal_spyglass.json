@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "L",
+    "C",
+    "C"
+  ],
+  "key": {
+    "L": "articrystals:focus_lens",
+    "C": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "articrystals:crystal_spyglass",
+    "count": 1
+  }
+}

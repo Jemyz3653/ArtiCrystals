@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "articrystals:moonstone"
+  },
+  "result": {
+    "id": "articrystals:moonstone_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:jade_block",
+    "articrystals:prismatic_lens",
+    "minecraft:glowstone_dust"
+  ],
+  "result": {
+    "id": "articrystals:jade_lamp",
+    "count": 1
+  }
+}

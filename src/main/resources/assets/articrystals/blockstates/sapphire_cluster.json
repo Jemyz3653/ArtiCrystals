@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "articrystals:block/sapphire_cluster",
+      "x": 0,
+      "y": 0
+    },
+    "facing=down": {
+      "model": "articrystals:block/sapphire_cluster",
+      "x": 180,
+      "y": 0
+    },
+    "facing=north": {
+      "model": "articrystals:block/sapphire_cluster",
+      "x": 90,
+      "y": 0
+    },
+    "facing=south": {
+      "model": "articrystals:block/sapphire_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=east": {
+      "model": "articrystals:block/sapphire_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=west": {
+      "model": "articrystals:block/sapphire_cluster",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

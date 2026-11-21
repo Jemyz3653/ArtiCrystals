@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:fluorite_block"
+  ],
+  "result": {
+    "id": "articrystals:fluorite",
+    "count": 9
+  }
+}

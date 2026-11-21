@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "articrystals:ruby_block",
+    "articrystals:sapphire_block",
+    "articrystals:rock_crystal_block",
+    "articrystals:citrine_block",
+    "articrystals:rose_quartz_block",
+    "articrystals:topaz_block",
+    "articrystals:fluorite_block",
+    "articrystals:jade_block",
+    "articrystals:aquamarine_block",
+    "articrystals:tourmaline_block",
+    "articrystals:amber_block",
+    "articrystals:opal_block",
+    "articrystals:garnet_block",
+    "articrystals:onyx_block",
+    "articrystals:malachite_block",
+    "articrystals:moonstone_block"
+  ]
+}

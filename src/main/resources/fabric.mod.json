@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "articrystals",
+  "version": "${version}",
+  "name": "ArtiCrystals",
+  "description": "Synthesize sixteen distinct crystals with individual sound profiles, build decorative clusters and craft optical lenses.",
+  "authors": [
+    "Detemkur-Studios"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "studio.detemkur.articrystals.ArtiCrystals"
+    ],
+    "client": [
+      "studio.detemkur.articrystals.client.ArtiCrystalsClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": ">=0.163.0"
+  },
+  "mixins": [
+    "articrystals.mixins.json",
+    {
+      "config": "articrystals.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "icon": "assets/articrystals/icon.png"
+}

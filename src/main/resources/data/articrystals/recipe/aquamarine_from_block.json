@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:aquamarine_block"
+  ],
+  "result": {
+    "id": "articrystals:aquamarine",
+    "count": 9
+  }
+}

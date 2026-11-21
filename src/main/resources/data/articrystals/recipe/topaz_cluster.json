@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "articrystals:topaz",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "articrystals:topaz_cluster",
+    "count": 1
+  }
+}

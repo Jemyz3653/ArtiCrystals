@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:sapphire_block",
+    "articrystals:prismatic_lens",
+    "minecraft:glowstone_dust"
+  ],
+  "result": {
+    "id": "articrystals:sapphire_lamp",
+    "count": 1
+  }
+}

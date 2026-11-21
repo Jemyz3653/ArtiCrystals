@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "articrystals:sapphire"
+  },
+  "result": {
+    "id": "articrystals:sapphire_block",
+    "count": 1
+  }
+}

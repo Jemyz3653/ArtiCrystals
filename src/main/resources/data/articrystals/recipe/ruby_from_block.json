@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:ruby_block"
+  ],
+  "result": {
+    "id": "articrystals:ruby",
+    "count": 9
+  }
+}

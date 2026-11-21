@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:clear_lens",
+    "articrystals:opal",
+    "articrystals:fluorite"
+  ],
+  "result": {
+    "id": "articrystals:prismatic_lens",
+    "count": 1
+  }
+}

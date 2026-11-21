@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "articrystals:malachite",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "articrystals:malachite_cluster",
+    "count": 1
+  }
+}

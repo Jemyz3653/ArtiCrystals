@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "articrystals:jade",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "articrystals:jade_cluster",
+    "count": 1
+  }
+}

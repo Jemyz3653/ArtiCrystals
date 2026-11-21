@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:moonstone_block"
+  ],
+  "result": {
+    "id": "articrystals:moonstone",
+    "count": 9
+  }
+}

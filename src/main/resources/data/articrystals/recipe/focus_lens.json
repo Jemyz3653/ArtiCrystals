@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:clear_lens",
+    "articrystals:sapphire",
+    "articrystals:aquamarine"
+  ],
+  "result": {
+    "id": "articrystals:focus_lens",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "articrystals:citrine"
+  },
+  "result": {
+    "id": "articrystals:citrine_block",
+    "count": 1
+  }
+}

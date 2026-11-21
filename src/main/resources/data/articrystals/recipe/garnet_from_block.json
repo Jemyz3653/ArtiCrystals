@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:garnet_block"
+  ],
+  "result": {
+    "id": "articrystals:garnet",
+    "count": 9
+  }
+}

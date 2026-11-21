@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/spyglass_in_hand",
+  "textures": {
+    "spyglass": "articrystals:item/crystal_spyglass_model",
+    "particle": "articrystals:block/aquamarine"
+  }
+}

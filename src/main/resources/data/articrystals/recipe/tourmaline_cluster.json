@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "articrystals:tourmaline",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "articrystals:tourmaline_cluster",
+    "count": 1
+  }
+}

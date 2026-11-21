@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "articrystals-test",
+  "version": "1.0.0",
+  "name": "ArtiCrystals Game Tests",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-gametest": [
+      "studio.detemkur.articrystals.test.ArtiCrystalsGameTests"
+    ],
+    "fabric-client-gametest": [
+      "studio.detemkur.articrystals.test.ArtiCrystalsClientTests"
+    ]
+  }
+}

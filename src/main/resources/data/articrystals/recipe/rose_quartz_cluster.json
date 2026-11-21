@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "articrystals:rose_quartz",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "articrystals:rose_quartz_cluster",
+    "count": 1
+  }
+}

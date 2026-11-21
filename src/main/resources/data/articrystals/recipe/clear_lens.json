@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    "CRC",
+    " C "
+  ],
+  "key": {
+    "C": "minecraft:copper_nugget",
+    "R": "articrystals:rock_crystal"
+  },
+  "result": {
+    "id": "articrystals:clear_lens",
+    "count": 1
+  }
+}

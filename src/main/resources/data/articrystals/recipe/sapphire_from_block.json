@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:sapphire_block"
+  ],
+  "result": {
+    "id": "articrystals:sapphire",
+    "count": 9
+  }
+}

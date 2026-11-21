@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "articrystals:amber",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "articrystals:amber_cluster",
+    "count": 1
+  }
+}

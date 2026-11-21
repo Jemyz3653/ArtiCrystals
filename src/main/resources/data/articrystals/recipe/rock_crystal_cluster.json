@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "articrystals:rock_crystal",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "articrystals:rock_crystal_cluster",
+    "count": 1
+  }
+}

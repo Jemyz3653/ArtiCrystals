@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "articrystals:amber_block"
+  ],
+  "result": {
+    "id": "articrystals:amber",
+    "count": 9
+  }
+}

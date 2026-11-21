@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "articrystals:garnet",
+    "S": "minecraft:stone"
+  },
+  "result": {
+    "id": "articrystals:garnet_cluster",
+    "count": 1
+  }
+}
